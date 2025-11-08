@@ -2,10 +2,7 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheInterception/SideChannelGOAT/refs/heads/main/logo.svg" width="200" />
-</p>
-
+![SideChannelGOAT Logo](sidechannel-logo.svg)
 
 **A Comprehensive Side-Channel Vulnerabilities Lab**
 
@@ -16,13 +13,13 @@
 
 *An intentionally vulnerable PHP application designed for learning and demonstrating side-channel attack vectors*
 
-[Features](#features) • [Installation](#installation) • [Vulnerabilities](#vulnerabilities) • [Usage](#usage) • [Mitigation](#mitigation) • [Contributing](#contributing)
+[Features](#features) • [Installation](#installation) • [Vulnerabilities](#vulnerabilities-overview) • [Usage](#quick-start) • [Mitigation](#mitigation-strategies) • [Contributing](#contributing)
 
 </div>
 
 ---
 
-## ⚠️ WARNING
+## ⚠️ WARNING {#warning}
 
 **THIS APPLICATION CONTAINS INTENTIONAL SECURITY VULNERABILITIES**
 
@@ -54,44 +51,29 @@ This project is designed for **security education, training, and awareness** pur
 
 ---
 
-## 🎯 About
+## 🎯 About {#about}
 
 **SideChannelGOAT** (Greatest Of All Time) is an educational web application that demonstrates 10 different side-channel vulnerabilities commonly found in web applications. Side-channel attacks exploit information leaked through the implementation of a system rather than weaknesses in the implemented algorithm itself.
 
-This project was created to help:
-- 🎓 **Students** learn about side-channel vulnerabilities
-- 👨‍🏫 **Educators** demonstrate real-world security concepts
-- 🔒 **Security professionals** understand timing attack vectors
-- 💻 **Developers** write more secure code
-
-### What are Side-Channel Attacks?
-
-Side-channel attacks are techniques that exploit information gained from the physical implementation of a system:
-- **Timing information** - How long operations take
-- **Power consumption** - Amount of electricity used
-- **Electromagnetic leaks** - EM radiation during computation
-- **Sound** - Acoustic emissions from hardware
-- **Error messages** - Different responses for different inputs
-
-This lab focuses on **timing-based** and **information disclosure** side-channels in web applications.
+...
 
 ---
 
-## ✨ Features
+## ✨ Features {#features}
 
-- 🔴 **10 Unique Vulnerabilities** - Comprehensive coverage of side-channel attack vectors
-- 🎨 **Modern UI** - Clean, professional interface with gradient designs
-- 📊 **Real-time Timing Analysis** - Measure request times in milliseconds
-- 🔧 **Built-in Mitigations** - Each vulnerability includes secure code examples
-- 📚 **Educational Content** - Detailed explanations and best practices
-- 🧪 **Interactive Testing** - Hands-on exploitation demonstrations
-- 📈 **Statistical Analysis** - Tools for analyzing timing patterns
-- 💾 **Session-based** - No database required, easy setup
-- 🌐 **Single File** - Everything in one PHP file for simplicity
+- 🔴 **10 Unique Vulnerabilities** – Comprehensive coverage of side-channel attack vectors
+- 🎨 **Modern UI** – Clean, professional interface with gradient designs
+- 📊 **Real-time Timing Analysis** – Measure request times in milliseconds
+- 🔧 **Built-in Mitigations** – Each vulnerability includes secure code examples
+- 📚 **Educational Content** – Detailed explanations and best practices
+- 🧪 **Interactive Testing** – Hands-on exploitation demonstrations
+- 📈 **Statistical Analysis** – Tools for analyzing timing patterns
+- 💾 **Session-based** – No database required, easy setup
+- 🌐 **Single File** – Everything in one PHP file for simplicity
 
 ---
 
-## 🔧 Prerequisites
+## 🔧 Prerequisites {#prerequisites}
 
 - **PHP 7.4 or higher**
 - **Web Server** (Apache, Nginx, or PHP built-in server)
