@@ -104,13 +104,6 @@ php -S localhost:8080
    - Try the interactive demonstrations
    - Review the mitigation strategies
 
-4. **Test with Tools**
-   ```bash
-   # Timing test with cURL
-   time curl -X POST http://localhost:8080?vuln=timing1 \
-     -d "action=timing1&password=SecretPass123"
-   ```
-
 ---
 
 ## 🎯 Vulnerabilities Overview
