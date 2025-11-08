@@ -995,31 +995,7 @@ A: Network jitter and server load can create noise, requiring statistical analys
 
 ---
 
-## 🔐 Security Disclosure
-
-### Vulnerability Disclosure Policy
-
-If you discover a **non-intentional** security issue:
-
-1. **Report Privately**: Email security@yourdomain.com
-2. **Provide Details**: 
-   - Description of the issue
-   - Steps to reproduce
-   - Potential impact
-   - Suggested fix (optional)
-3. **Responsible Timeline**: 
-   - We'll acknowledge within 48 hours
-   - Investigation within 7 days
-   - Fix deployed within 30 days
-   - Public disclosure after fix
-4. **Recognition**: 
-   - Hall of Fame mention
-   - CVE credit if applicable
-   - Bounty for critical issues (if available)
-
----
-
-**Made with ❤️ IN Goa by THER3VERSEFLXSH**
+<p align="center">**Made with ❤️ IN Goa by THER3VERSEFLXSH**</p>
 
 
 </div>
