@@ -38,6 +38,10 @@ This project is designed for **security education, training, and awareness** pur
 
 **SideChannelGOAT** (Greatest Of All Time) is an educational web application that demonstrates 10 different side-channel vulnerabilities commonly found in web applications. Side-channel attacks exploit information leaked through the implementation of a system rather than weaknesses in the implemented algorithm itself.
 
+<p align="center">
+  <img src="https://github.com/TheInterception/SideChannelGOAT/blob/main/1.png" width="1920px" height="1080px" />
+</p>
+
 ...
 
 ---
