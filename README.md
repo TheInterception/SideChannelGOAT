@@ -16,8 +16,6 @@
 
 *An intentionally vulnerable PHP application designed for learning and demonstrating side-channel attack vectors*
 
-[Features](#features) • [Installation](#installation) • [Vulnerabilities](#vulnerabilities-overview) • [Usage](#quick-start) • [Mitigation](#mitigation-strategies) • [Contributing](#contributing)
-
 </div>
 
 ---
@@ -36,25 +34,7 @@ This project is designed for **security education, training, and awareness** pur
 
 ---
 
-## 📖 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Vulnerabilities Overview](#vulnerabilities-overview)
-- [Detailed Vulnerability Analysis](#detailed-vulnerability-analysis)
-- [Testing & Exploitation](#testing--exploitation)
-- [Mitigation Strategies](#mitigation-strategies)
-- [Educational Use Cases](#educational-use-cases)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
----
-
-## 🎯 About {#about}
+## 🎯 About
 
 **SideChannelGOAT** (Greatest Of All Time) is an educational web application that demonstrates 10 different side-channel vulnerabilities commonly found in web applications. Side-channel attacks exploit information leaked through the implementation of a system rather than weaknesses in the implemented algorithm itself.
 
@@ -62,7 +42,7 @@ This project is designed for **security education, training, and awareness** pur
 
 ---
 
-## ✨ Features {#features}
+## ✨ Features
 
 - 🔴 **10 Unique Vulnerabilities** – Comprehensive coverage of side-channel attack vectors
 - 🎨 **Modern UI** – Clean, professional interface with gradient designs
@@ -76,7 +56,7 @@ This project is designed for **security education, training, and awareness** pur
 
 ---
 
-## 🔧 Prerequisites {#prerequisites}
+## 🔧 Prerequisites
 
 - **PHP 7.4 or higher**
 - **Web Server** (Apache, Nginx, or PHP built-in server)
@@ -91,7 +71,7 @@ This project is designed for **security education, training, and awareness** pur
 
 ## 📥 Installation
 
-### Method 1: Clone Repository
+### Clone Repository
 
 ```bash
 # Clone the repository
@@ -102,22 +82,6 @@ cd SideChannelGOAT
 
 # Start PHP development server
 php -S localhost:8080
-```
-
-### Method 2: Manual Download
-
-1. Download `index.php` from this repository
-2. Place it in a directory
-3. Run PHP server: `php -S localhost:8080`
-
-### Method 3: Docker (Optional)
-
-```bash
-# Build Docker image
-docker build -t sidechannel-goat .
-
-# Run container
-docker run -p 8080:80 sidechannel-goat
 ```
 
 ---
