@@ -1,8 +1,7 @@
 # 🛡️ SideChannelGOAT
 
 <div align="center">
-
-![SideChannelGOAT Logo](sidechannel-logo.svg)
+![logo](https://github.com/user-attachments/assets/24122051-b2a1-4252-b2b4-3128b78341cb)
 
 **A Comprehensive Side-Channel Vulnerabilities Lab**
 
