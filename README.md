@@ -828,35 +828,6 @@ if ($duration > $threshold) {
 
 ---
 
-## 📖 Educational Use Cases
-
-### 1. University Courses
-- **Web Security (CS 253)** - Practical demonstrations
-- **Applied Cryptography** - Side-channel attack concepts
-- **Secure Coding** - Learn secure development practices
-
-### 2. Security Training
-- **OWASP Top 10** - Information disclosure vulnerabilities
-- **Penetration Testing** - Timing attack methodologies
-- **Red Team Exercises** - Exploitation techniques
-
-### 3. Capture The Flag (CTF)
-- Create challenges based on vulnerabilities
-- Practice exploitation techniques
-- Develop defensive strategies
-
-### 4. Research Projects
-- Analyze mitigation effectiveness
-- Develop new attack vectors
-- Test timing attack detection systems
-
-### 5. Bug Bounty Training
-- Understand side-channel vulnerabilities
-- Learn to identify timing issues
-- Practice responsible disclosure
-
----
-
 ### Timing Measurements
 | Vulnerability | Fast Path | Slow Path | Difference | Detectable |
 |---------------|-----------|-----------|------------|------------|
