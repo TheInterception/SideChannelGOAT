@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SideChannelGOAT Logo]([sidechannel-logo.svg](https://raw.githubusercontent.com/TheInterception/SideChannelGOAT/refs/heads/main/logo.svg))
+https://raw.githubusercontent.com/TheInterception/SideChannelGOAT/refs/heads/main/logo.svg 
 
 **A Comprehensive Side-Channel Vulnerabilities Lab**
 
