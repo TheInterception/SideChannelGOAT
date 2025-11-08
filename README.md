@@ -1,7 +1,7 @@
-
+# 🛡️ SideChannelGOAT
 
 <div align="center">
-# 🛡️ SideChannelGOAT
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheInterception/SideChannelGOAT/refs/heads/main/logo.svg" width="200" />
 </p>
