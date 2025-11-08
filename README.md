@@ -1,7 +1,9 @@
-![logo](https://github.com/user-attachments/assets/06dc6a4c-7e7b-48f0-b329-da04697e8cea)# 
+# 🛡️ SideChannelGOAT
 
 <div align="center">
-<b>🛡️ SideChannelGOAT</b>
+
+![SideChannelGOAT Logo](sidechannel-logo.svg)
+
 **A Comprehensive Side-Channel Vulnerabilities Lab**
 
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue.svg)](https://php.net)
